@@ -1,0 +1,4 @@
+#!/bin/bash
+mvn -f server/ clean 
+mvn -f server/ package
+java -jar target/*.jar
