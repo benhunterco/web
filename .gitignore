@@ -1,0 +1,9 @@
+dea/
+*.iml
+node_modules
+client/node_modules/
+client/public/
+client/*.log
+client_bundle/
+target/
+run

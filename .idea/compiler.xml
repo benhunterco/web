@@ -17,7 +17,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bensite" target="1.8" />
-      <module name="bensite (1)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
